@@ -1,0 +1,55 @@
+ul{
+    text-align: center;
+    list-style: none;
+    display: block;
+}
+ul li{
+    display: inline;
+    position: relative;
+    padding: 20px;
+    
+}
+ul li a{
+    color: chocolate;
+    font-size: x-large;
+    font-family: monospace;
+}
+h1{
+    color: brown;
+    font-size: 50px;
+    font-family: fantasy;
+    padding-left: 50px;
+}
+h2{
+    color: coral;
+    font-size: 25px;
+    font-family: monospace;
+    padding-left: 50px;
+}
+h4{
+    color: tomato;
+    font-size: 20px;
+    font-family: monospace;
+    text-align: center;
+}
+h6{
+    color: peru;
+    font-size: 16px;
+    font-family: monospace;
+    text-align: center;
+}
+
+.paragraf{
+    text-align: center;
+    color: indianred;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 15px;
+    font-family: monospace;
+    
+}
+p a{
+    color: coral;
+    font-size: 15px;
+    font-family: monospace;
+}
